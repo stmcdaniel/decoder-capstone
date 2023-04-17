@@ -24,7 +24,7 @@ const caesarModule = (function () {
             }
           })
         } else {
-          result.push(char); 	// push the new alphabet new index into tht result
+          result.push(char); 	// push the new alphabet new index into the result
         }
       });
     } else {
